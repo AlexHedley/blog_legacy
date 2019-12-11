@@ -1,4 +1,4 @@
-var myApp = angular.module('myApp',[]);
+var myApp = angular.module('myApp',['ngSanitize']);
 myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
     $scope.list = [];
@@ -12,7 +12,7 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
         $http.get(file)
             .then(function(response) {
-                $scope.list = response.data.item;
+                $scope.list = response.data;
             });
     };
 
@@ -23,4 +23,4 @@ myApp.filter('toDate', function() {
     return function(items) {
       return new Date(items);
     };
-  });
+});

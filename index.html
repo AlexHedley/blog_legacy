@@ -52,8 +52,11 @@
                 </div>
 
                 <div class="row" ng-repeat="post in list | filter:searchText">
-                    <p>{{post.title}}</p>
-                    <p>{{post.date}}</p>
+                    <h3>{{post.BlogTitle}}</h3>
+                    <p>&nbsp;({{post.DateAdded}})</p>
+                    <br />
+                    <div ng-bind-html="post.BlogMessage"></div>
+                    <hr />
                 </div>
 
             </div>
@@ -80,6 +83,7 @@
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script> -->
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script> -->
     <script src="js/angular.min.js"></script>
+    <script src="js/angular-sanitize.js"></script>
     <script src="js/app.js"></script>
     </body>
 </html>

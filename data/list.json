@@ -1,229 +1,188 @@
-{
-    "title": "Alex Hedley's Blog",
-    "link": "http://www.alexhedley.com/blog/",
-    "description": "My general thoughts",
-    "language": "en-uk",
-    "copyright": "Copyright 2010-2019 - All Rights Reserved.",
-    "lastBuildDate": "2016-01-01 16:50:36 +0000",
-    "managingEditor": "alex@alexhedley.com (Alex Hedley)",
-    "webMaster": "alex@alexhedley.com (Alex Hedley)",
-    "item": [
-        {
-            "id": 31,
-            "title": "iOS Quiz App",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2016-01-01 16:50:36 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=31"
-        },
-        {
-            "id": 30,
-            "title": "Dizzy - Pebble Watchface",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2015-01-17 08:32:39 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=30"
-        },
-        {
-            "id": 29,
-            "title": "New Site",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2015-01-02 00:00:00 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=29"
-        },
-        {
-            "id": 28,
-            "title": "iOS - POST",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2014-10-25 10:28:29 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=28"
-        },
-        {
-            "id": 27,
-            "title": "JointJS",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2014-10-18 13:15:17 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=27"
-        },
-        {
-            "id": 26,
-            "title": "TuneFind",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2014-09-13 12:48:24 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=26"
-        },
-        {
-            "id": 25,
-            "title": "Safari JSON Viewer",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2014-09-13 06:03:02 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=25"
-        },
-        {
-            "id": 24,
-            "title": "Mac Apps",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2014-07-19 06:58:53 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=24"
-        },
-        {
-            "id": 23,
-            "title": "Automator",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2014-04-20 00:57:31 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=23"
-        },
-        {
-            "id": 22,
-            "title": "MetaX\\/Y and Videos",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-12-25 02:06:04 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=22"
-        },
-        {
-            "id": 21,
-            "title": "The Dark Side of the Half Moon",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-09-27 05:52:45 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=21"
-        },
-        {
-            "id": 20,
-            "title": "Countdown Idea",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-09-02 12:21:24 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=20"
-        },
-        {
-            "id": 19,
-            "title": "ASP API",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-09-02 12:20:40 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=19"
-        },
-        {
-            "id": 18,
-            "title": "Priscilla Ahn - Stage It",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-06-30 12:19:56 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=18"
-        },
-        {
-            "id": 17,
-            "title": "599CD Tips",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-06-30 12:05:35 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=17"
-        },
-        {
-            "id": 16,
-            "title": "RSS - Google Reader",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-06-25 02:23:38 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=16"
-        },
-        {
-            "id": 15,
-            "title": "ObjC",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-06-23 05:53:31 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=15"
-        },
-        {
-            "id": 14,
-            "title": "Things to remember",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-06-23 05:46:44 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=14"
-        },
-        {
-            "id": 13,
-            "title": "Bowling Website",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2013-06-16 08:46:27 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=13"
-        },
-        {
-            "id": 12,
-            "title": "Matt Lucas Show",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2012-04-14 02:09:14 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=12"
-        },
-        {
-            "id": 11,
-            "title": "Ed Byrne",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2011-05-28 06:15:54 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=11"
-        },
-        {
-            "id": 10,
-            "title": "Recent Theatre Visit",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2011-05-04 05:16:48 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=10"
-        },
-        {
-            "id": 9,
-            "title": "For Orchestra",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2011-04-11 09:52:44 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=9"
-        },
-        {
-            "id": 8,
-            "title": "Instagram",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2011-04-08 01:37:39 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=8"
-        },
-        {
-            "id": 7,
-            "title": "Syntax Hightling Update",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2011-02-16 05:06:52 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=7"
-        },
-        {
-            "id": 6,
-            "title": "Code Highlighting",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2011-02-14 10:20:49 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=6"
-        },
-        {
-            "id": 5,
-            "title": "Project List",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2011-01-02 08:41:04 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=5"
-        },
-        {
-            "id": 4,
-            "title": "Quotes",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2010-11-19 03:05:11 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=4"
-        },
-        {
-            "id": 3,
-            "title": "CSS3",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2010-11-09 05:10:39 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=3"
-        },
-        {
-            "id": 2,
-            "title": "RSS Feeds",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2010-11-08 16:44:19 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=2"
-        },
-        {
-            "id": 1,
-            "title": "My First Post",
-            "link": "http://www.alexhedley.com/blog/",
-            "date": "2010-11-08 11:20:48 +0000",
-            "guid": "http://www.alexhedley.com/blog/?id=1"
-        }
-    ]
-}
+[
+    {
+      "BlogID": 1,
+      "BlogTitle": "My First Post",
+      "BlogMessage": "Hi All, I've decided to start a blog, yes I could have added one by another company but thought I’d create my own for training/learning principles etc.",
+      "DateAdded": "2010-11-08 11:20:48 +0000"
+    },
+    {
+      "BlogID": 2,
+      "BlogTitle": "RSS Feeds",
+      "BlogMessage": "I've added RSS Feeds for this blog, the Music list and the film list\nThey are all separate so you add only the ones you wish, if you want to.",
+      "DateAdded": "2010-11-08 16:44:19 +0000"
+    },
+    {
+      "BlogID": 3,
+      "BlogTitle": "CSS3",
+      "BlogMessage": "Just seen a video by Think Vitamin and they showed a cool <a href=\"http://neography.com/experiment/circles/solarsystem/\" target=\"_blank\">example</a> of the border-radius and transitions (Only in Chrome or Safari)\nAlso cool <a href=\"http://neography.com/journal/css-transforms-font-face-experiment/\" target=\"_blank\">text</a>\nCheck <a href=\"http://webkit.org/blog-files/3d-transforms/morphing-cubes.html\" target=\"_blank\">this</a> out in Safari!",
+      "DateAdded": "2010-11-09 05:10:39 +0000"
+    },
+    {
+      "BlogID": 4,
+      "BlogTitle": "Quotes",
+      "BlogMessage": "Misquotations are the only quotations that are never misquoted.\" - Hesketh Pearson",
+      "DateAdded": "2010-11-19 03:05:11 +0000"
+    },
+    {
+      "BlogID": 5,
+      "BlogTitle": "Project List",
+      "BlogMessage": "Just added a new page with the Web <a href=\"/projects/\">Projects</a> I'm working on, should be an expanding list :)",
+      "DateAdded": "2011-01-02 08:41:04 +0000"
+    },
+    {
+      "BlogID": 6,
+      "BlogTitle": "Code Highlighting",
+      "BlogMessage": "I've started making more tutorials and putting them up on here.\nI was using a crude method of divs and classes to highlight different code which looked ok but I'd seen it looks much better on other sites so I went looking and found <a href=\"http://alexgorbatchev.com/SyntaxHighlighter/\" target=\"_blank\">Syntax Highlighter</a> which does an amazing job.\nI've used it on <a href=\"http://alexhedley.com/testing/twitter.asp\">My Twitter integration tutorial<a/> locally and a quick hosted <a href=\"http://alexhedley.com/workings/highlighter/index.html\">demo<a/>.\nI think it makes the page look a lot better.\nI'm gonna add it to my 599CD Classroom, hopefully in the next couple of days.",
+      "DateAdded": "2011-02-14 10:20:49 +0000"
+    },
+    {
+      "BlogID": 7,
+      "BlogTitle": "Syntax Hightling Update",
+      "BlogMessage": "So I've added a theme switcher to the syntax highlighting on the 599 pages and maybe other coding pages later, took a theme switcher I'd used from a magazine tutorial from a while back.\nNeed to style it so it looks better but its functional.",
+      "DateAdded": "2011-02-16 05:06:52 +0000"
+    },
+    {
+      "BlogID": 8,
+      "BlogTitle": "Instagram",
+      "BlogMessage": "I love <a href=\"http://instagr.am/\" >Instagram</a> :)\nI need to take more photos tho, just be more creative.\n\nI've come across two sites since they released their <a href=\"http://instagram.com/developer/\">API</a> that do some cool things.\n\nThe first is <a href=\"http://instagoodies.com/\">Insta Goodies</a> \"Stickers of your Instagram photos!\" hence the reason I need to take more photos.\n\nThe next is <a href=\"http://instagrid.me/\">Instagrid</a> - \"A Clean Web Gallery For Your Instagram Photos\", this is because there isn't an easy way on the web to see all your photos, you can scan through your feed on the iPhone app but it's small etc.\n\nHopefully more things will become available soon or make your own using the API!\n\nEdit: <a href=\"http://Hatchcraft.com/\">Hatchcraft</a> - BOO BOX – bamboo shadow box frames for your photos and art\n@Hatchcraft - Twitter",
+      "DateAdded": "2011-04-08 01:37:39 +0000"
+    },
+    {
+      "BlogID": 9,
+      "BlogTitle": "For Orchestra",
+      "BlogMessage": "So I was listening to Scott Mills on BBC Radio 1 today and he was playing a few songs from <a href=\"http://fororchestra.com/\">For Orchestra</a> by Walt Ribeiro.\nSome cool orchestral versions of songs you might know.",
+      "DateAdded": "2011-04-11 09:52:44 +0000"
+    },
+    {
+      "BlogID": 28,
+      "BlogTitle": "iOS - POST",
+      "BlogMessage": "Finally managed to get a POST to work in my iOS app.<div>Can create a login then update for the website.</div>",
+      "DateAdded": "2014-10-25 10:28:29 +0000"
+    },
+    {
+      "BlogID": 29,
+      "BlogTitle": "New Site",
+      "BlogMessage": "So I've recently had my site redesigned by&nbsp;<a href=\"http://www.jonnymillerdesigner.com/\" title=\"Jonny Miller Designer\" target=\"_blank\">Jonny Miller</a>.<div>What do you think?</div>",
+      "DateAdded": "2015-01-02 00:00:00 +0000"
+    },
+    {
+      "BlogID": 10,
+      "BlogTitle": "Recent Theatre Visit",
+      "BlogMessage": "I went to the JournalTyne Theatre   last night (3rd May '11) to see One-Man Star Wars by Charles Ross.\nIt is exactly what you think it will be.\nSeems he's done a LOTRs too.\nIt took a little to get into it but was worth it. Helps if you have seen the first three moves (IV/V/VI) but there were some very funny moments in there own right.\nHe came back out at the end and had a little chat with us, seems it has been touring for about 10 years after an original 25min sketch of the first film that seemed to evolve to the trilogy.\n\nHe was supported by a comedian John Cooper who has created a rather brilliant character, Danny Pensive, be sure to check out the Gateshead video from his blog.\nHilarious use of words.\n\nLinks\n<a href=\"http://www.thejournaltynetheatre.co.uk\" alt=\"Journal Tyne Theatre\">Journal Tyne Theatre</a>\n<a href=\"http://www.onemanstarwars.com/\" alt=\"One-Man Star Wars\">One-Man Star Wars</a>\n    <a href=\"http://www.onemanlotr.com/\" alt=\"One Man LOTR\">One Man LOTR</a>\n<a href=\"http://www.johncooper.org.uk/\" alt=\"John Cooper\">John Cooper</a>\n<a href=\"http://www.dannypensive.co.uk/\" alt=\"Danny Pensive\">Danny Pensive</a>\n<a href=\"http://www.youtube.com/watch?v=jppUrm_crDU\" alt=\"DP in Gateshead\">Danny Pensive in Gateshead</a>",
+      "DateAdded": "2011-05-04 05:16:48 +0000"
+    },
+    {
+      "BlogID": 11,
+      "BlogTitle": "Ed Byrne",
+      "BlogMessage": "Went to see Ed Byrne at the City Hall on Friday Night [27th May 2011]\nIt was filmed as it was his best gig of the last tour, might actually be on it, prob at the end.\nReally good gig, audience participation was great.\nThere was a guy laughing that much, and that loud next to use it made it all the funnier.",
+      "DateAdded": "2011-05-28 06:15:54 +0000"
+    },
+    {
+      "BlogID": 12,
+      "BlogTitle": "Matt Lucas Show",
+      "BlogMessage": "Just watched the first episode of the new matt lucas awards show.\nSome funny parts but just a little odd.",
+      "DateAdded": "2012-04-14 02:09:14 +0000"
+    },
+    {
+      "BlogID": 13,
+      "BlogTitle": "Bowling Website",
+      "BlogMessage": "I've created a new section on my site to document my <a href=\"http://alexhedley.com/bowling/\">Bowling scores</a>.\n\nI've started to make it look like the screens at the bowling alley, clearly not a designer :p",
+      "DateAdded": "2013-06-16 08:46:27 +0000"
+    },
+    {
+      "BlogID": 14,
+      "BlogTitle": "Things to remember",
+      "BlogMessage": "Battle Royale\nSeries 7\nPython - Pylon\nApidya",
+      "DateAdded": "2013-06-23 05:46:44 +0000"
+    },
+    {
+      "BlogID": 15,
+      "BlogTitle": "ObjC",
+      "BlogMessage": "iPhone Game Programming Series: Blackjack – Part 1: The Deck\n\n<a href=\"http://www.icodeblog.com/2010/09/09/iphone-game-programming-series-blackjack-part-1-the-deck/\">http://www.icodeblog.com/2010/09/09/iphone-game-programming-series-blackjack-part-1-the-deck/</a>",
+      "DateAdded": "2013-06-23 05:53:31 +0000"
+    },
+    {
+      "BlogID": 16,
+      "BlogTitle": "RSS - Google Reader",
+      "BlogMessage": "So Google Reader is going on the 1st of July.\n\nWhat are the alternatives?\n\n<strong>Feedly</strong>\n<a href=\"http://cloud.feedly.com/\">Site</a>\nThis links to GR atm, other support is coming...\nFree\n<a href=\"https://itunes.apple.com/gb/app/feedly-your-google-reader/id396069556?mt=8\">iOS App</a> (Free)\n\n\n<strong>Fever</strong>\n<a href=\"http://www.feedafever.com/\">Site</a>\n$30 (1 off payment)\niOS Apps:\n<a href=\"https://itunes.apple.com/gb/app/sunstroke/id488564806?mt=8\">Sunstroke</a> (£2.99)\n<a href=\"https://itunes.apple.com/gb/app/reeder/id325502379?mt=8\">Reeder</a> (£1.99)\n\n\n<strong>Feed Wrangler</strong>\n<a href=\"http://feedwrangler.net/\">Site</a>\n$19 a year.\n<a href=\"https://itunes.apple.com/gb/app/feed-wrangler/id634486174?mt=8\">iOS</a> (Free)\n\n\n<strong>TT-RSS</strong>\n<a href=\"http://tt-rss.org/redmine/projects/tt-rss/wiki\">Site</a>\nFree\nApps - Web based\n\n<strong>feedbin</strong>\n<a href=\"https://feedbin.me/\">Site</a>\n$2 a month\niOS:\nReeder etc support it\n<a href=\"https://twitter.com/feedbinapp\">Twitter</a>\nAPI\n<a href=\"https://github.com/feedbin\">GitHub</a>\n\nStill don't know what to choose, I have exported my feeds from Google, do it now too!",
+      "DateAdded": "2013-06-25 02:23:38 +0000"
+    },
+    {
+      "BlogID": 17,
+      "BlogTitle": "599CD Tips",
+      "BlogMessage": "I've added a new section for VB.NET on the <a href=\"http://599cd.alexhedley.com/tips/\">Tips</a> section of 599CD on my site.<div><br></div><div>I was recently creating a few small apps for work and decided to do them in VB.NET instead of VB6.</div><div>I still like VB6, it can seem simplier to use if you just wanna create something small.</div><div><br></div><div>I also decided to do it in VS as some colleagues use C# and we could test similar methods.</div><div>It was only a simple look up to an Access db, fill in a datagrid and display some information.</div><div>I also wanted to convert some Access dbs to have VB.NET fronts so I started working with Graphs and seeing if I could replicate it here too.</div><div><br></div><div>Not sure how much more I'll be working with it going forward as I have other projects but thought I'd jot down what I've done so far so I can go back and use this as reference.</div><div><div><br></div></div>",
+      "DateAdded": "2013-06-30 12:05:35 +0000"
+    },
+    {
+      "BlogID": 18,
+      "BlogTitle": "Priscilla Ahn - Stage It",
+      "BlogMessage": "Priscilla Ahn did a <a href=\"http://www.stageit.com/\" title=\"\" target=\"\">Stage It</a>&nbsp;recently but it was in the middle of the night and I was at work the next day so didn't stay up, regretted it a little but a kind person has added it on <a href=\"http://www.youtube.com/watch?v=a-r8bjO62zE\" title=\"\" target=\"\">YouTube</a>.<div><br></div><div>I love the idea of Stage It.</div><div>Nick Harper (<a href=\"http://www.harperspace.com/\" title=\"\" target=\"\">Website</a> |&nbsp;<a href=\"http://www.stageit.com/Harperspace\" title=\"\" target=\"\">Profile</a>) has done a few, he started from his first album, so I'm hoping he'll do the rest.</div><div>The video was a little jumpy on one but considering the price is so cheap and you could still here it fine I wasn't bothered.</div>",
+      "DateAdded": "2013-06-30 12:19:56 +0000"
+    },
+    {
+      "BlogID": 22,
+      "BlogTitle": "MetaX/Y and Videos",
+      "BlogMessage": "I've got some video files I needed to add some meta data to and needed a quick and easy way to do it.<div>This is when I came across MetaX.</div><div><img src=\"https://www.macupdate.com/util/iconlg/24994.png\" alt=\"\" align=\"none\"><br></div><div><b>MetaX</b></div><div><a href=\"https://www.macupdate.com/app/mac/24994/metax\" title=\"\" target=\"_blank\">https://www.macupdate.com/app/mac/24994/metax</a><br></div><div>Download:&nbsp;<a href=\"https://www.macupdate.com/download/24994/MetaX-2.4.6.dmg\" title=\"\" target=\"\">https://www.macupdate.com/download/24994/MetaX-2.4.6.dmg</a></div><div><br></div><div>This is no longer actively developed.</div><div>Windows:&nbsp;http://www.danhinsley.com/metax/metax.html</div><div><br></div><div><img src=\"https://www.macupdate.com/util/iconlg/36029.png\" alt=\"\" align=\"none\"></div><div><b>MetaZ</b></div><div><a href=\"https://www.macupdate.com/app/mac/36029/metaz\" title=\"\" target=\"_blank\">https://www.macupdate.com/app/mac/36029/metaz</a><br></div><div>Download:&nbsp;<a href=\"https://www.macupdate.com/download/36029/MetaZ-1.0a15.zip\" title=\"\" target=\"\">https://www.macupdate.com/download/36029/MetaZ-1.0a15.zip</a></div><div><a href=\"http://griff.github.io/metaz/\" title=\"\" target=\"_blank\">http://griff.github.io/metaz/</a><br></div><div><br></div><div><br></div>",
+      "DateAdded": "2013-12-25 02:06:04 +0000"
+    },
+    {
+      "BlogID": 30,
+      "BlogTitle": "Dizzy - Pebble Watchface",
+      "BlogMessage": "Released my first Dizzy Pebble Watchface today.<div>Made it back in Dec just after I'd got the watch for Birthday.</div><div>Was fun to do, should make more.</div><div><br></div><div>Download it <a href=\"https://apps.getpebble.com/applications/54ba785a05d4eef95600003e\" title=\"Dizzy Pebble Watchface\" target=\"_blank\">here</a>.</div>",
+      "DateAdded": "2015-01-17 08:32:39 +0000"
+    },
+    {
+      "BlogID": 31,
+      "BlogTitle": "iOS Quiz App",
+      "BlogMessage": "Making good progress on the quiz app.\nGot total score saving, generatea PDF, email option.\nGot the buttons to sort now.",
+      "DateAdded": "2016-01-01 16:50:36 +0000"
+    },
+    {
+      "BlogID": 19,
+      "BlogTitle": "ASP API",
+      "BlogMessage": "<div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">ASP.NET</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\"><br></span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">API</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\"><br></span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">CRUD API</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">http://www.asp.net/web-api/overview/creating-web-apis/creating-a-web-api-that-supports-crud-operations</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\"><br></span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">--</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">http://scottdesapio.com/VBScriptOAuth/</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">--</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">http://www.timacheson.com/Blog/2013/jun/asptwitter</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">--</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">http://stackoverflow.com/questions/2883444/making-a-http-request-to-api-possible-with-vb-asp-classic</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\"><br></span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">Dim req</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">Set req = Server.CreateObject(\"MSXML2.ServerXMLHTTP\")</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\"><br></span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">req.open \"GET\", \"http://blabla.com\", False</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">req.send()</span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\"><br></span></font></div><div><font size=\"2\" face=\"arial\"><span style=\"line-height: 24px;\">Response.Write(req.responseText)</span></font></div></div>",
+      "DateAdded": "2013-09-02 12:20:40 +0000"
+    },
+    {
+      "BlogID": 20,
+      "BlogTitle": "Countdown Idea",
+      "BlogMessage": "<div>http://www.crosswordtools.com/numbers-game/</div><div><br></div><div>http://djce.org.uk/countdown</div><div><br></div><div>http://www.dilan4.com/maths/countdown.htm</div><div><br></div><div>http://www.danieltebbutt.com/countdown.html</div><div><br></div><div>T-SQL</div><div>http://developer42.wordpress.com/2013/07/28/countdown-numbers-round-solver-in-t-sql/</div><div><br></div><div>http://stackoverflow.com/questions/15293232/how-to-design-an-algorithm-to-calculate-countdown-style-maths-number-puzzle</div><div><br></div><div>http://stackoverflow.com/questions/16510634/24-game-countdown-number-game-solver-but-without-parentheses-in-the-answer</div><div><br></div><div>http://incoherency.co.uk/countdown/</div><div>&nbsp; https://github.com/jes/cntdn/</div><div><br></div><div>http://thesamovar.net/countdownnumbers</div><div><br></div><div>https://github.com/wharris/countdown</div>",
+      "DateAdded": "2013-09-02 12:21:24 +0000"
+    },
+    {
+      "BlogID": 21,
+      "BlogTitle": "The Dark Side of the Half Moon",
+      "BlogMessage": "<div>Bro was in a play again at the Customs House.</div><div><br></div><div>Really funny.</div><div><br></div>Customs House - South Shields.<div>Wednesday 11th September 2013 19:30</div>",
+      "DateAdded": "2013-09-27 05:52:45 +0000"
+    },
+    {
+      "BlogID": 23,
+      "BlogTitle": "Automator",
+      "BlogMessage": "<div>I found a tweet about a Standford Mac Dev course.</div><div><br></div><div><a href=\"https://twitter.com/indragie/statuses/457607755621097473\" title=\"\" target=\"\">https://twitter.com/indragie/statuses/457607755621097473</a><br></div><div><div>&lt;blockquote class=\"twitter-tweet\" lang=\"en\"&gt;&lt;p&gt;TIL Stanford has a class on Cocoa Programming for OS X: &lt;a href=\"http://t.co/TdFAUYifeX\"&gt;http://t.co/TdFAUYifeX&lt;/a&gt;. Impressive.&lt;/p&gt;&amp;mdash; Indragie Karunaratne (@indragie) &lt;a href=\"https://twitter.com/indragie/statuses/457607755621097473\"&gt;April 19, 2014&lt;/a&gt;&lt;/blockquote&gt;</div><div>&lt;script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"&gt;&lt;/script&gt;</div></div><div><br></div><div><a href=\"http://www.stanford.edu/class/cs193e/\" title=\"\" target=\"\">http://www.stanford.edu/class/cs193e/</a><br></div><div><br></div><div>Didn't want to download all the files individually so why not use automator.</div><div>I'd played about with this kind of thing before:</div><div><br></div><div><a href=\"http://www.therobbiedshow.com/web-dev-notes/2011/12/14/automator-workflow-to-download-specific-files-from-url.html\" title=\"\" target=\"\">http://www.therobbiedshow.com/web-dev-notes/2011/12/14/automator-workflow-to-download-specific-files-from-url.html</a><br></div><div><ol id=\"yui_3_10_1_1_1397978327178_419\" style=\"margin-top: 1.3em; margin-bottom: 1.3em; padding-left: 40px; font-family: 'Open Sans'; font-size: 16px; line-height: 20.799999237060547px; color: rgb(135, 135, 135); background-color: rgb(235, 235, 235);\"><li>Open Automator.</li><li>Make a new workflow.</li><li>Add these actions, in this order:<ol style=\"padding-left: 40px; font-size: 16px; line-height: 1.3em; letter-spacing: 0px;\"><li>Get Specific URLs</li><li>Get Link URLs from Webpages</li><li>FIlter URLs</li></ol></li><li>In the \"Get Specific URLs\" action, set your URL.</li><li>In the \"FIlter URLs\" action, add your filter(s). (e.g., Name contains .pdf)</li><li>Run, to test results.</li><li>Add the \"Download URLs\" action and choose a download folder</li></ol></div>",
+      "DateAdded": "2014-04-20 00:57:31 +0000"
+    },
+    {
+      "BlogID": 24,
+      "BlogTitle": "Mac Apps",
+      "BlogMessage": "RegExRX<div>£2.99</div><div><br></div><div>http://www.mactechnologies.com/index.php?page=home</div><div>19/07/2014</div>",
+      "DateAdded": "2014-07-19 06:58:53 +0000"
+    },
+    {
+      "BlogID": 25,
+      "BlogTitle": "Safari JSON Viewer",
+      "BlogMessage": "Starting to use Safari more and need some extensions I'm used to in Chrome.<div><br></div><div>One handy one is a JSON Viewer:&nbsp;https://github.com/rfletcher/safari-json-formatter</div>",
+      "DateAdded": "2014-09-13 06:03:02 +0000"
+    },
+    {
+      "BlogID": 26,
+      "BlogTitle": "TuneFind",
+      "BlogMessage": "I always here songs and TV shows and for one reason or another can't shazam it, sometimes find them online.<div>Recently was watching Criminal Mind: Suspect Behaviour and there was a song I liked so I googled it.</div><div>Came across '<a href=\"http://www.tunefind.com/\">http://www.tunefind.com/</a>' and it found the song.</div><div><a href=\"http://www.tunefind.com/show/criminal-minds-suspect-behavior/season-1/7433#songs\">http://www.tunefind.com/show/criminal-minds-suspect-behavior/season-1/7433#songs</a><br></div><div>1 for 1 so hopefully I continue getting matches.</div><div>Just got to remember to use this site!</div>",
+      "DateAdded": "2014-09-13 12:48:24 +0000"
+    },
+    {
+      "BlogID": 27,
+      "BlogTitle": "JointJS",
+      "BlogMessage": "<div>When writing glossary items for http://www.599cd.com I've been producing my own Function Engine as a image (in word, cough) and loading it.</div><div><br></div><div>I saw a website called http://www.explainshell.com/ that linked keywords to a function and wanted to do something similar.</div><div>The code was complex and above my understanding to implement myself, I'm wanting to use my time for others things but j thought there must be another solution out there.</div><div><br></div><div>There was a sitepoint article I came across () with the following site:</div><div><br></div>http://www.jointjs.com/demos/erd<br><div><br></div><div>Now I just need to amend the code to allow for resizing of a box and colouring and it should suite my needs.</div>",
+      "DateAdded": "2014-10-18 13:15:17 +0000"
+    }
+  ]
